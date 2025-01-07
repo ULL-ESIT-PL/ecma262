@@ -4,7 +4,7 @@ ECMAScript
 
 ## This repo
 
-This repository is a fork of the official [tc39/ecma262](https://github.com/tc39/ecma262).
+This repository is a fork of the official repo [tc39/ecma262](https://github.com/tc39/ecma262).
 
 This repository contains the source for the current draft of ECMA-262,
 the ECMAScript® Language Specification.
